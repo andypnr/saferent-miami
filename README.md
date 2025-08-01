@@ -74,11 +74,11 @@ I plan to:
 - Source: Miami‑Dade Open Data Hub  
 - API Endpoint: `<internal REST_URL>`
 
-### 🛠️ Scripts
+### Scripts
 - `scripts/fetch_housing.py`: fetches GeoJSON, flattens it to CSV
 - `scripts/clean_housing.py`: cleans, splits lat/lon, and filters
 
-### 📂 Data Output
+### Data Output
 - `data/low_income_housing_raw.csv`
 - `data/low_income_housing_cleaned.csv`
 
